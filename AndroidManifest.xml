@@ -1,0 +1,287 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.NikeApps.tibbleelevappen"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <application
+        android:icon="@drawable/new_icon1"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".TibbleAppen"
+            android:label="@string/title_activity_splash_screen"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Meny"
+            android:label="@string/title_activity_tibble_appen"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Schema"
+            android:label="@string/title_activity_schema"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".EKE1A"
+            android:label="@string/title_activity_eke1"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Matsedel"
+            android:label="@string/title_activity_matsedel"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Splash"
+            android:label="@string/title_activity_splach"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".EKE1B"
+            android:label="@string/title_activity_eke1_b" >
+        </activity>
+        <activity
+            android:name=".EKI1A"
+            android:label="@string/title_activity_eki1" >
+        </activity>
+        <activity
+            android:name=".EKJ1A"
+            android:label="@string/title_activity_ekj1" >
+        </activity>
+        <activity
+            android:name=".ES1A"
+            android:label="@string/title_activity_es1" >
+        </activity>
+        <activity
+            android:name=".ES1B"
+            android:label="@string/title_activity_es1_b" >
+        </activity>
+        <activity
+            android:name=".HA1A"
+            android:label="@string/title_activity_ha1" >
+        </activity>
+        <activity
+            android:name=".HUM1A"
+            android:label="@string/title_activity_hum1" >
+        </activity>
+        <activity
+            android:name=".IHL1A"
+            android:label="@string/title_activity_ihl1" >
+        </activity>
+        <activity
+            android:name=".NA1A"
+            android:label="@string/title_activity_na1" >
+        </activity>
+        <activity
+            android:name=".SAB1A"
+            android:label="@string/title_activity_sab1" >
+        </activity>
+        <activity
+            android:name=".SAB1B"
+            android:label="@string/title_activity_sab1_b" >
+        </activity>
+        <activity
+            android:name=".SAB1C"
+            android:label="@string/title_activity_sab1_c" >
+        </activity>
+        <activity
+            android:name=".SAM1A"
+            android:label="@string/title_activity_sam1" >
+        </activity>
+        <activity
+            android:name=".SAS1A"
+            android:label="@string/title_activity_sas1" >
+        </activity>
+        <activity
+            android:name=".TE1A"
+            android:label="@string/title_activity_te1" >
+        </activity>
+        <activity
+            android:name=".Karta"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_karta"
+            android:screenOrientation="landscape"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name=".News"
+            android:label="@string/title_activity_news" >
+        </activity>
+        <activity
+            android:name=".EKE2A"
+            android:label="@string/title_activity_eke2" >
+        </activity>
+        <activity
+            android:name=".EKE2B"
+            android:label="@string/title_activity_eke2_b" >
+        </activity>
+        <activity
+            android:name=".EKI2A"
+            android:label="@string/title_activity_eki2" >
+        </activity>
+        <activity
+            android:name=".EKJ2A"
+            android:label="@string/title_activity_ekj2" >
+        </activity>
+        <activity
+            android:name=".EKJ2B"
+            android:label="@string/title_activity_ekj2_b" >
+        </activity>
+        <activity
+            android:name=".ES2A"
+            android:label="@string/title_activity_es2" >
+        </activity>
+        <activity
+            android:name=".ES2B"
+            android:label="@string/title_activity_es2_b" >
+        </activity>
+        <activity
+            android:name=".HA2A"
+            android:label="@string/title_activity_ha2" >
+        </activity>
+        <activity
+            android:name=".HUM2A"
+            android:label="@string/title_activity_hum2" >
+        </activity>
+        <activity
+            android:name=".NA2A"
+            android:label="@string/title_activity_na2" >
+        </activity>
+        <activity
+            android:name=".SAB2A"
+            android:label="@string/title_activity_sab2" >
+        </activity>
+        <activity
+            android:name=".SAB2B"
+            android:label="@string/title_activity_sab2_b" >
+        </activity>
+        <activity
+            android:name=".SAM2A"
+            android:label="@string/title_activity_sam2" >
+        </activity>
+        <activity
+            android:name=".SAS2A"
+            android:label="@string/title_activity_sas2" >
+        </activity>
+        <activity
+            android:name=".TE2A"
+            android:label="@string/title_activity_te2" >
+        </activity>
+        <activity
+            android:name=".EK3A"
+            android:label="@string/title_activity_ek3" >
+        </activity>
+        <activity
+            android:name=".EK3B"
+            android:label="@string/title_activity_ek3_b" >
+        </activity>
+        <activity
+            android:name=".ES3A"
+            android:label="@string/title_activity_es3" >
+        </activity>
+        <activity
+            android:name=".HP3A"
+            android:label="@string/title_activity_hp3" >
+        </activity>
+        <activity
+            android:name=".IHL3A"
+            android:label="@string/title_activity_ihl3" >
+        </activity>
+        <activity
+            android:name=".ITEK3A"
+            android:label="@string/title_activity_itek3" >
+        </activity>
+        <activity
+            android:name=".JUEK3A"
+            android:label="@string/title_activity_juek3" >
+        </activity>
+        <activity
+            android:name=".JUEK3B"
+            android:label="@string/title_activity_juek3_b" >
+        </activity>
+        <activity
+            android:name=".KU3A"
+            android:label="@string/title_activity_ku3" >
+        </activity>
+        <activity
+            android:name=".NV3A"
+            android:label="@string/title_activity_nv3" >
+        </activity>
+        <activity
+            android:name=".PS3A"
+            android:label="@string/title_activity_ps3" >
+        </activity>
+        <activity
+            android:name=".SA3A"
+            android:label="@string/title_activity_sa3" >
+        </activity>
+        <activity
+            android:name=".SK3A"
+            android:label="@string/title_activity_sk3" >
+        </activity>
+        <activity
+            android:name=".WWB3A"
+            android:label="@string/title_activity_wwb3" >
+        </activity>
+        <activity
+            android:name=".WWI3A"
+            android:label="@string/title_activity_wwi3" >
+        </activity>
+        <activity
+            android:name=".WWL3A"
+            android:label="@string/title_activity_wwl3" >
+        </activity>
+        <activity
+            android:name=".Om"
+            android:label="@string/title_activity_om"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Amica"
+            android:label="@string/title_activity_amica"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".SchoolSoft"
+            android:label="@string/title_activity_school_soft"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".RSS_nyheter"
+            android:label="@string/title_activity_rss_nyheter"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Kontakt"
+            android:label="@string/title_activity_kontakt"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Kartaplan2"
+            android:label="@string/title_activity_kartaplan2"
+            android:screenOrientation="landscape"
+            android:configChanges="orientation|keyboardHidden"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name=".Kartaplan3"
+            android:label="@string/title_activity_kartaplan3" 
+            android:screenOrientation="landscape" 
+            android:configChanges="orientation|keyboardHidden"
+            android:noHistory="true" >
+        </activity>
+    </application>
+
+</manifest>

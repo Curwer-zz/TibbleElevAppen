@@ -1,0 +1,204 @@
+<resources>
+
+    <string name="app_name">Tibble ElevAppen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Om Appen</string>
+    <string name="title_activity_tibble_appen">Meny</string>
+    <string name="MainScreen_Mess">Välkommen till Tibble ElevAppen!</string>
+    <string name="schema">Schema</string>
+    <string name="matsedel">Matsedel</string>
+    <string name="title_activity_splach">Splach</string>
+    <string name="title_activity_schema">Schema</string>
+    <string name="arskurs_1">Årskurs 1</string>
+    <string name="arskurs_2">Årskurs 2</string>
+    <string name="arskurs_3">Årskurs 3</string>
+
+    <string-array name="Klasser">
+  //16                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>Välj</item>
+        <item>EKE1A</item>
+        <item>EKE1B</item>
+        <item>EKI1A</item>
+        <item>EKJ1A</item>
+        <item>ES1A</item>
+        <item>ES1B</item>
+        <item>HA1A</item>
+        <item>HUM1A</item>
+        <item>IHL1A</item>
+        <item>NA1A</item>
+        <item>SAB1A</item>
+        <item>SAB1B</item>
+        <item>SAB1C</item>
+        <item>SAM1A</item>
+        <item>SAS1A</item>
+        <item>TE1A</item>
+    </string-array>
+    <string-array name="Klasser1">
+  //16                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>Välj</item>
+        <item>EKE2A</item>
+        <item>EKE2B</item>
+        <item>EKI2A</item>
+        <item>EKJ2A</item>
+        <item>EKJ2B</item>
+        <item>ES2A</item>
+        <item>ES2B</item>
+        <item>HA2A</item>
+        <item>HUM2A</item>
+        <item>NA2A</item>
+        <item>SAB2A</item>
+        <item>SAB2B</item>
+        <item>SAM2A</item>
+        <item>SAS2A</item>
+        <item>TE2A</item>
+    </string-array>
+    <string-array name="Klasser2">
+ //17                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>Välj</item>
+        <item>EK3A</item>
+        <item>EK3B</item>
+        <item>ES3A</item>
+        <item>HP3A</item>
+        <item>IHL3A</item>
+        <item>ITEK3A</item>
+        <item>JUEK3A</item>
+        <item>JUEK3B</item>
+        <item>KU3A</item>
+        <item>NV3A</item>
+        <item>PS3A</item>
+        <item>SA3A</item>
+        <item>SK3A</item>
+        <item>WWB3A</item>
+        <item>WWI3A</item>
+        <item>WWL3A</item>
+    </string-array>
+    <string-array name="dinklass">
+        <item>Välj</item>
+        <item>EKE1A</item>
+        <item>EKE1B</item>
+        <item>EKI1A</item>
+        <item>EKJ1A</item>
+        <item>ES1A</item>
+        <item>ES1B</item>
+        <item>HA1A</item>
+        <item>HUM1A</item>
+        <item>IHL1A</item>
+        <item>NA1A</item>
+        <item>SAB1A</item>
+        <item>SAB1B</item>
+        <item>SAB1C</item>
+        <item>SAM1A</item>
+        <item>SAS1A</item>
+        <item>TE1A</item>
+        <item>EKE2A</item>
+        <item>EKE2B</item>
+        <item>EKI2A</item>
+        <item>EKJ2A</item>
+        <item>EKJ2B</item>
+        <item>ES2A</item>
+        <item>ES2B</item>
+        <item>HA2A</item>
+        <item>HUM2A</item>
+        <item>NA2A</item>
+        <item>SAB2A</item>
+        <item>SAB2B</item>
+        <item>SAM2A</item>
+        <item>SAS2A</item>
+        <item>TE2A</item>
+        <item>EK3A</item>
+        <item>EK3B</item>
+        <item>ES3A</item>
+        <item>HP3A</item>
+        <item>IHL3A</item>
+        <item>ITEK3A</item>
+        <item>JUEK3A</item>
+        <item>JUEK3B</item>
+        <item>KU3A</item>
+        <item>NV3A</item>
+        <item>PS3A</item>
+        <item>SA3A</item>
+        <item>SK3A</item>
+        <item>WWB3A</item>
+        <item>WWI3A</item>
+        <item>WWL3A</item>
+    </string-array>
+
+    <string name="title_activity_eke1">EKE1A</string>
+    <string name="title_activity_matsedel">Matsedel</string>
+    <string name="schoolsoft">School Soft</string>
+    <string name="title_activity_splash_screen">Tibble ElevAppen</string>
+    <string name="title_activity_eke1_b">EKE1B</string>
+    <string name="title_activity_eki1">EKI1A</string>
+    <string name="title_activity_ekj1">EKJ1A</string>
+    <string name="title_activity_es1">ES1A</string>
+    <string name="title_activity_es1_b">ES1B</string>
+    <string name="title_activity_ha1">HA1A</string>
+    <string name="title_activity_hum1">HUM1A</string>
+    <string name="title_activity_ihl1">IHL1A</string>
+    <string name="title_activity_na1">NA1A</string>
+    <string name="title_activity_sab1">SAB1A</string>
+    <string name="title_activity_sab1_b">SAB1B</string>
+    <string name="title_activity_sab1_c">SAB1C</string>
+    <string name="title_activity_sam1">SAM1A</string>
+    <string name="title_activity_sas1">SAS1A</string>
+    <string name="title_activity_te1">TE1A</string>
+    <string name="title_activity_eke1_a_mandag">EKE1A_mandag</string>
+    <string name="title_activity_eke1_a_tisdag">EKE1A_tisdag</string>
+    <string name="title_activity_eke1_a_onsdag">EKE1A_onsdag</string>
+    <string name="title_activity_eke1_a_torsdag">EKE1A_torsdag</string>
+    <string name="title_activity_eke1_a_fredag">EKE1A_fredag</string>
+    <string name="skolkarta">Skolkarta</string>
+    <string name="title_activity_skolkarta">Skolkarta</string>
+    <string name="h_r_kommer_de_finnas_en_karta_ver_skolan_jag_kommer_jobba_p_ett_s_tt_s_att_man_l_tt_ska_f_en_versikt_ver_skolan_">Här vill jag placera en karta över skolan. Min avsikt är att elever lätt ska hitta till olika lokaler. </string>
+    <string name="title_activity_karta">Karta</string>
+    <string name="h_r_kommer_jag_l_gga_in_en_bild_p_skolans_schema_m_let_r_att_genom_detta_g_ra_et_l_ttare_f_r_f_rsta_rs_elever_att_hitta_till_klasser_">Här kommer jag lägga in en bild på skolans schema, målet är att genom detta göra et lättare för första års elever att hitta till klasser.</string>
+    <string name="title_activity_news">News</string>
+    <string name="om_de_blir_en_vidare_uppdatering_av_skolans_nyhetsvisning_s_vill_jag_skapa_ett_enkelt_och_l_tt_s_tt_f_r_eleverna_p_tibble_att_f_l_tt_tkomst_till_skolans_nyhets_fl_de_">Under denna flik ligger Tibble Gymnasiums framtida nyhets brev.</string>
+    <string name="title_activity_eke2">EKE2A</string>
+    <string name="title_activity_eke2_b">EKE2B</string>
+    <string name="title_activity_eki2">EKI2A</string>
+    <string name="title_activity_ekj2">EKJ2A</string>
+    <string name="title_activity_ekj2_b">EKJ2B</string>
+    <string name="title_activity_es2">ES2A</string>
+    <string name="title_activity_es2_b">ES2B</string>
+    <string name="title_activity_ha2">HA2A</string>
+    <string name="title_activity_hum2">HUM2A</string>
+    <string name="title_activity_na2">NA2A</string>
+    <string name="title_activity_sab2">SAB2A</string>
+    <string name="title_activity_sab2_b">SAB2B</string>
+    <string name="title_activity_sam2">SAM2A</string>
+    <string name="title_activity_sas2">SAS2A</string>
+    <string name="title_activity_te2">TE2A</string>
+    <string name="title_activity_ek3">EK3A</string>
+    <string name="title_activity_ek3_b">EK3B</string>
+    <string name="title_activity_es3">ES3A</string>
+    <string name="title_activity_hp3">HP3A</string>
+    <string name="title_activity_ihl3">IHL3A</string>
+    <string name="title_activity_itek3">ITEK3A</string>
+    <string name="title_activity_juek3">JUEK3A</string>
+    <string name="title_activity_juek3_b">JUEK3B</string>
+    <string name="title_activity_ku3">KU3A</string>
+    <string name="title_activity_nv3">NV3A</string>
+    <string name="title_activity_ps3">PS3A</string>
+    <string name="title_activity_sa3">SA3A</string>
+    <string name="title_activity_sk3">SK3A</string>
+    <string name="title_activity_wwb3">WWB3A</string>
+    <string name="title_activity_wwi3">WWI3A</string>
+    <string name="title_activity_wwl3">WWL3A</string>
+    <string name="title_activity_om">Om</string>
+    <string name="information">Information</string>
+    <string name="Informtion_text">Hejsan. De som började som ett projekt arbete slutade med en affärsidé. De du ser på nu är TibbleGymnasium. Appen för tibble´s elever och lärare.\n        \n        De som appen gjordes för i huvudsak va just för att underlätta för skolans elever med att förse dem med schemat för sin klass. \n        \n        Men efter ett tag kom de flera idéer och de började växa fram något, de började forma sig en app som inte bara var för schemat utan för de mesta som rör eleverna.\n        \n        Appen skapades av Niclas Hjalmarsson, elev på tibble.</string>
+    <string name="title_activity_amica">Amica</string>
+    <string name="title_activity_school_soft">SchoolSoft</string>
+    <string name="title_activity_rss_nyheter">RSS_nyheter</string>
+    <string name="nyhets_fl_de">Nyhets flöde</string>
+    <string name="title_activity_kontakt">Kontaktlista</string>
+    <string name="din_klass">Din Klass</string>
+    <string name="till_schema">Till Schema</string>
+    <string name="kontakt_mess">"De är meningen att här ska de finnas ett epost och telnr. till skolans lärare. "</string>
+    <string name="karta_ver_skolan">Plan 1</string>
+    <string name="title_activity_kartaplan2">Kartaplan2</string>
+    <string name="v_ning_2">Våning 2</string>
+    <string name="title_activity_kartaplan3">Kartaplan3</string>
+    <string name="v_ning_3">Våning 3</string>
+    <string name="get_value">Get Value</string>
+    <string name="set_value">Set Value</string>
+
+</resources>
